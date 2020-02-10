@@ -28,10 +28,13 @@ namespace Assignment1.Tests
             int radius=5;
 
             Circle circle = new Circle(radius);
-            radius = circle.SetRadius(radius);
+
+            radius = int.Parse(Console.ReadLine());
+            circle.SetRadius(radius);
+            
 
 
-            Assert.AreEqual(radius, 1);
+            Assert.AreEqual(radius, 5);
         }
 
         [Test]
