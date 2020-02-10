@@ -23,7 +23,7 @@ namespace Assignment1.Tests
         }
 
         [Test]
-        public  void setCircleRadiusMethod()
+        public  void setRadiusMethod_Input5_output5()
         {
             int radius=5;
 
