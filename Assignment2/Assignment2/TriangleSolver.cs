@@ -49,33 +49,34 @@ namespace Assignment2
 
         public static  string Analyze(int a, int b, int c)
         {
+            
+                if ((a + b > c) && (b + c > a) && (a + c > b))
+                {
+                    Console.WriteLine("These sides can form a triangle");
+                    if (equilateral(a, b, c) == true)
+                    {
+                        Console.WriteLine("Triangle is Equilateral");
+                    }
+                    else if (isosceles(a, b, c) == true)
+                    {
+                        Console.WriteLine("Triangle is Isosceles");
+                    }
+                    else if (scalene(a, b, c) == true)
+                    {
+                        Console.WriteLine("Triangle is Scalene");
+                    }
 
-            if ((a + b > c) && (b + c > a) && (a + c > b))
-            {
-                Console.WriteLine("These sides can form a triangle");
-               if( equilateral(a, b, c)== true)
-                {
-                    Console.WriteLine("Triangle is Equilateral");
-                }
-               else if(isosceles(a, b, c) == true)
-                {
-                    Console.WriteLine("Triangle is Isosceles");
-                }
-               else if (scalene(a, b, c) == true)
-                {
-                    Console.WriteLine("Triangle is Scalene");
-                }
-                
-               
-                 
-               
+                    return "True";
 
-            }
-            else
-            {
-                Console.WriteLine("those sides do not produce a triangle, please try again");
-            }
-            return "True";
+                }
+                else
+                {
+                    Console.WriteLine("those sides do not produce a triangle, please try again");
+                    return "false";
+                }
+            
+          
+            
 
         }
     }
