@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "5f83b8cb86014e0ae30920ecf97b7203da099c29"
+    "signature": "7af8789b87e4b2a52218b2bcd777b3b1117a9568"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,9 +9,10 @@
     ".NETStandard,Version=v2.0/": {
       "Assignment2.Test/1.0.0": {
         "dependencies": {
+          "Assignment2": "1.0.0",
           "NETStandard.Library": "2.0.3",
           "NUnit": "3.12.0",
-          "NUnit3TestAdapter": "3.16.1"
+          "NUnit3TestAdapter": "3.16.0"
         },
         "runtime": {
           "Assignment2.Test.dll": {}
@@ -34,7 +35,12 @@
           }
         }
       },
-      "NUnit3TestAdapter/3.16.1": {}
+      "NUnit3TestAdapter/3.16.0": {},
+      "Assignment2/1.0.0": {
+        "runtime": {
+          "Assignment2.exe": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -64,12 +70,17 @@
       "path": "nunit/3.12.0",
       "hashPath": "nunit.3.12.0.nupkg.sha512"
     },
-    "NUnit3TestAdapter/3.16.1": {
+    "NUnit3TestAdapter/3.16.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-wKuxi7G9Gs2I9gnckwtMVzbPIy7vkNj+FafrmQPaYCUguT+se5kmzI3XwsVCXEalWk9pSYZW7roBkNu4ogn3DA==",
-      "path": "nunit3testadapter/3.16.1",
-      "hashPath": "nunit3testadapter.3.16.1.nupkg.sha512"
+      "sha512": "sha512-yK8Y7DYboIz1pSVvjPN4SGGzso8OW5ZZ06kqqkeF4AXKvAeNo2n1bm41mArKk94+lKrD5m6RaWKnvoFk/U+z5w==",
+      "path": "nunit3testadapter/3.16.0",
+      "hashPath": "nunit3testadapter.3.16.0.nupkg.sha512"
+    },
+    "Assignment2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

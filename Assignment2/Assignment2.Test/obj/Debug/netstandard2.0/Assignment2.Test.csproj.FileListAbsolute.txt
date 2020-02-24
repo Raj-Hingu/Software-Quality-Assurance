@@ -11,3 +11,7 @@ E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assign
 E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\bin\Debug\netstandard2.0\Assignment2.Test.pdb
 E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\obj\Debug\netstandard2.0\Assignment2.Test.dll
 E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\obj\Debug\netstandard2.0\Assignment2.Test.pdb
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\bin\Debug\netstandard2.0\Assignment2.exe
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\bin\Debug\netstandard2.0\Assignment2.pdb
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\bin\Debug\netstandard2.0\Assignment2.exe.config
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\obj\Debug\netstandard2.0\Assignment2.Test.csproj.CopyComplete

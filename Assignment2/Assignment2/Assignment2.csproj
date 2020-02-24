@@ -58,12 +58,6 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Assignment2.Test\Assignment2.Test.csproj">
-      <Project>{c4bd7bb7-bbe8-49e2-a20c-3c42ed1a744a}</Project>
-      <Name>Assignment2.Test</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
