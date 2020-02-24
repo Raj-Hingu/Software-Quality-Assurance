@@ -49,17 +49,19 @@ namespace Assignment1
                     {
                         Console.WriteLine("The Area of Default Circle is : " + circle.GetArea());
                     }
-                    else
+                    else if(num1 == 5)
                     {
-
+                        Console.WriteLine("Thank You");
+                        i = 0;
                     }
+                   
                 }
                 catch (Exception e)
                 {
 
                     Console.WriteLine("Please select from the above options" + e);
                 }
-
+                 
             } while (i == 1);
 
           

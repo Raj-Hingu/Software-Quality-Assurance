@@ -1,0 +1,13 @@
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\bin\Debug\netstandard2.0\Assignment2.Test.deps.json
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\bin\Debug\netstandard2.0\Assignment2.Test.dll
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\obj\Debug\netstandard2.0\Assignment2.Test.csprojAssemblyReference.cache
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\obj\Debug\netstandard2.0\Assignment2.Test.csproj.CoreCompileInputs.cache
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\obj\Debug\netstandard2.0\Assignment2.Test.AssemblyInfoInputs.cache
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\obj\Debug\netstandard2.0\Assignment2.Test.AssemblyInfo.cs
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\bin\Debug\netstandard2.0\nunit.engine.dll
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\bin\Debug\netstandard2.0\nunit.engine.api.dll
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\bin\Debug\netstandard2.0\Assignment2.Test.pdb
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\obj\Debug\netstandard2.0\Assignment2.Test.dll
+E:\Sem4\Software Quality Assurance\Software-Quality-Assurance\Assignment2\Assignment2.Test\obj\Debug\netstandard2.0\Assignment2.Test.pdb

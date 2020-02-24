@@ -29,8 +29,8 @@ namespace Assignment1.Tests
 
             Circle circle = new Circle(radius);
 
-            radius = int.Parse(Console.ReadLine());
-            circle.SetRadius(radius);
+            
+             circle.SetRadius(5);
             
 
 
